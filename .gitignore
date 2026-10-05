@@ -1,0 +1,27 @@
+# Python虚拟环境
+qlora_env/
+
+# Python缓存
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+.vscode/
+
+# 模型文件
+models/
+*.bin
+*.safetensors
+
+# 训练输出
+output/
+outputs/
+checkpoint*/
+
+# 日志
+logs/
+
+# 系统文件
+.DS_Store
+Thumbs.db

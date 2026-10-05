@@ -1,0 +1,308 @@
+[
+  {
+    "category": "基础计算",
+    "messages": [
+      {
+        "role": "system",
+        "content": "你是一名专业的五金工具电商客服，回答要准确、简洁、实用，不确定的产品参数不要擅自编造。"
+      },
+      {
+        "role": "user",
+        "content": "200mm批头比65mm批头长多少？"
+      },
+      {
+        "role": "assistant",
+        "content": "200 - 65 = 135mm，所以200mm批头比65mm批头长135mm。"
+      }
+    ]
+  },
+  {
+    "category": "基础计算",
+    "messages": [
+      {
+        "role": "system",
+        "content": "你是一名专业的五金工具电商客服，回答要准确、简洁、实用，不确定的产品参数不要擅自编造。"
+      },
+      {
+        "role": "user",
+        "content": "65mm和200mm批头相差多少？"
+      },
+      {
+        "role": "assistant",
+        "content": "200 - 65 = 135mm，两种长度相差135mm。"
+      }
+    ]
+  },
+  {
+    "category": "基础计算",
+    "messages": [
+      {
+        "role": "system",
+        "content": "你是一名专业的五金工具电商客服，回答要准确、简洁、实用，不确定的产品参数不要擅自编造。"
+      },
+      {
+        "role": "user",
+        "content": "200mm比100mm多多少长度？"
+      },
+      {
+        "role": "assistant",
+        "content": "200 - 100 = 100mm，所以200mm比100mm长100mm。"
+      }
+    ]
+  },
+  {
+    "category": "基础计算",
+    "messages": [
+      {
+        "role": "system",
+        "content": "你是一名专业的五金工具电商客服，回答要准确、简洁、实用，不确定的产品参数不要擅自编造。"
+      },
+      {
+        "role": "user",
+        "content": "150mm比65mm长多少？"
+      },
+      {
+        "role": "assistant",
+        "content": "150 - 65 = 85mm，所以150mm比65mm长85mm。"
+      }
+    ]
+  },
+  {
+    "category": "基础计算",
+    "messages": [
+      {
+        "role": "system",
+        "content": "你是一名专业的五金工具电商客服，回答要准确、简洁、实用，不确定的产品参数不要擅自编造。"
+      },
+      {
+        "role": "user",
+        "content": "100mm比65mm多多少？"
+      },
+      {
+        "role": "assistant",
+        "content": "100 - 65 = 35mm，所以100mm比65mm长35mm。"
+      }
+    ]
+  },
+  {
+    "category": "基础计算",
+    "messages": [
+      {
+        "role": "system",
+        "content": "你是一名专业的五金工具电商客服，回答要准确、简洁、实用，不确定的产品参数不要擅自编造。"
+      },
+      {
+        "role": "user",
+        "content": "从65mm换成200mm，长度增加多少？"
+      },
+      {
+        "role": "assistant",
+        "content": "200 - 65 = 135mm，长度增加135mm。"
+      }
+    ]
+  },
+  {
+    "category": "基础计算",
+    "messages": [
+      {
+        "role": "system",
+        "content": "你是一名专业的五金工具电商客服，回答要准确、简洁、实用，不确定的产品参数不要擅自编造。"
+      },
+      {
+        "role": "user",
+        "content": "150mm和100mm批头相差多少？"
+      },
+      {
+        "role": "assistant",
+        "content": "150 - 100 = 50mm，两种长度相差50mm。"
+      }
+    ]
+  },
+  {
+    "category": "PH2概念",
+    "messages": [
+      {
+        "role": "system",
+        "content": "你是一名专业的五金工具电商客服，回答要准确、简洁、实用，不确定的产品参数不要擅自编造。"
+      },
+      {
+        "role": "user",
+        "content": "PH2和65mm分别代表什么？"
+      },
+      {
+        "role": "assistant",
+        "content": "PH2表示十字批头的规格，65mm表示批头长度，两者是不同的参数。"
+      }
+    ]
+  },
+  {
+    "category": "PH2概念",
+    "messages": [
+      {
+        "role": "system",
+        "content": "你是一名专业的五金工具电商客服，回答要准确、简洁、实用，不确定的产品参数不要擅自编造。"
+      },
+      {
+        "role": "user",
+        "content": "PH2是不是批头长度？"
+      },
+      {
+        "role": "assistant",
+        "content": "不是。PH2表示十字批头的规格，批头长度需要另外看65mm、100mm、150mm、200mm等长度标识。"
+      }
+    ]
+  },
+  {
+    "category": "PH2概念",
+    "messages": [
+      {
+        "role": "system",
+        "content": "你是一名专业的五金工具电商客服，回答要准确、简洁、实用，不确定的产品参数不要擅自编造。"
+      },
+      {
+        "role": "user",
+        "content": "65mm是不是PH2的尺寸？"
+      },
+      {
+        "role": "assistant",
+        "content": "不是。65mm表示批头长度，PH2表示十字批头规格，两者不是同一种参数。"
+      }
+    ]
+  },
+  {
+    "category": "PH2概念",
+    "messages": [
+      {
+        "role": "system",
+        "content": "你是一名专业的五金工具电商客服，回答要准确、简洁、实用，不确定的产品参数不要擅自编造。"
+      },
+      {
+        "role": "user",
+        "content": "100mm是PH2的规格吗？"
+      },
+      {
+        "role": "assistant",
+        "content": "不是。100mm表示批头长度，PH2表示十字批头规格，两者代表不同参数。"
+      }
+    ]
+  },
+  {
+    "category": "双头批头",
+    "messages": [
+      {
+        "role": "system",
+        "content": "你是一名专业的五金工具电商客服，回答要准确、简洁、实用，不确定的产品参数不要擅自编造。"
+      },
+      {
+        "role": "user",
+        "content": "双头批头能不能同时拧两颗螺丝？"
+      },
+      {
+        "role": "assistant",
+        "content": "不能。双头批头通常是两端都有工作端头，可以根据需要翻转使用，并不是同时拧两颗螺丝。"
+      }
+    ]
+  },
+  {
+    "category": "双头批头",
+    "messages": [
+      {
+        "role": "system",
+        "content": "你是一名专业的五金工具电商客服，回答要准确、简洁、实用，不确定的产品参数不要擅自编造。"
+      },
+      {
+        "role": "user",
+        "content": "双头批头为什么叫双头？"
+      },
+      {
+        "role": "assistant",
+        "content": "通常是因为一根批头的两端都有工作刀头，可以根据需要翻转使用。"
+      }
+    ]
+  },
+  {
+    "category": "双头批头",
+    "messages": [
+      {
+        "role": "system",
+        "content": "你是一名专业的五金工具电商客服，回答要准确、简洁、实用，不确定的产品参数不要擅自编造。"
+      },
+      {
+        "role": "user",
+        "content": "双头批头是不是代表一根批头有两个夹头？"
+      },
+      {
+        "role": "assistant",
+        "content": "不是。双头通常指一根批头的两端都有工作端头，不是指有两个夹头。"
+      }
+    ]
+  },
+  {
+    "category": "两用头",
+    "messages": [
+      {
+        "role": "system",
+        "content": "你是一名专业的五金工具电商客服，回答要准确、简洁、实用，不确定的产品参数不要擅自编造。"
+      },
+      {
+        "role": "user",
+        "content": "两用头是不是可以同时拧两颗螺丝？"
+      },
+      {
+        "role": "assistant",
+        "content": "不是。两用头不能理解为同时拧两颗螺丝，具体“两用”所指的功能要根据产品实际结构和配置确认。"
+      }
+    ]
+  },
+  {
+    "category": "两用头",
+    "messages": [
+      {
+        "role": "system",
+        "content": "你是一名专业的五金工具电商客服，回答要准确、简洁、实用，不确定的产品参数不要擅自编造。"
+      },
+      {
+        "role": "user",
+        "content": "两用头是不是就是两颗批头？"
+      },
+      {
+        "role": "assistant",
+        "content": "不能直接这样理解。“两用”具体指什么要看产品实际结构和商品说明，不能仅根据名称判断。"
+      }
+    ]
+  },
+  {
+    "category": "S2材质",
+    "messages": [
+      {
+        "role": "system",
+        "content": "你是一名专业的五金工具电商客服，回答要准确、简洁、实用，不确定的产品参数不要擅自编造。"
+      },
+      {
+        "role": "user",
+        "content": "S2是不是不锈钢？"
+      },
+      {
+        "role": "assistant",
+        "content": "不是。S2属于常用于批头等工具的工具钢，不应直接等同于不锈钢。"
+      }
+    ]
+  },
+  {
+    "category": "S2材质",
+    "messages": [
+      {
+        "role": "system",
+        "content": "你是一名专业的五金工具电商客服，回答要准确、简洁、实用，不确定的产品参数不要擅自编造。"
+      },
+      {
+        "role": "user",
+        "content": "S2是不是不锈钢等级？"
+      },
+      {
+        "role": "assistant",
+        "content": "不是。S2通常用于表示工具钢材料，并不是不锈钢等级。"
+      }
+    ]
+  }
+]

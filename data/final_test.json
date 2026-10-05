@@ -1,0 +1,210 @@
+[
+  {
+    "id": 1,
+    "category": "PH规格",
+    "question": "PH2后面的2是不是代表2毫米？"
+  },
+  {
+    "id": 2,
+    "category": "PH规格",
+    "question": "如果批头标注PH2，这个PH2具体表示什么？"
+  },
+  {
+    "id": 3,
+    "category": "PH规格",
+    "question": "PH2批头主要适合什么类型的螺丝槽？"
+  },
+  {
+    "id": 4,
+    "category": "PH规格",
+    "question": "PH2和PH3批头有什么区别？"
+  },
+  {
+    "id": 5,
+    "category": "PH规格",
+    "question": "螺丝是PH3规格，可以直接换成PH2批头使用吗？"
+  },
+  {
+    "id": 6,
+    "category": "PH规格",
+    "question": "PH2和65mm这两个参数分别代表什么？"
+  },
+
+  {
+    "id": 7,
+    "category": "长度规格",
+    "question": "一支100mm批头和一支65mm批头，长度相差多少？"
+  },
+  {
+    "id": 8,
+    "category": "长度规格",
+    "question": "150mm批头比100mm批头长多少？"
+  },
+  {
+    "id": 9,
+    "category": "长度规格",
+    "question": "如果从200mm换成100mm，批头长度减少多少？"
+  },
+  {
+    "id": 10,
+    "category": "长度规格",
+    "question": "65mm、100mm、150mm、200mm中的数字表示什么？"
+  },
+  {
+    "id": 11,
+    "category": "长度规格",
+    "question": "批头是不是越长越好用？"
+  },
+  {
+    "id": 12,
+    "category": "长度规格",
+    "question": "螺丝安装位置比较深时，应该考虑短批头还是长批头？"
+  },
+
+  {
+    "id": 13,
+    "category": "S2材质",
+    "question": "S2工具钢和不锈钢是同一种材料吗？"
+  },
+  {
+    "id": 14,
+    "category": "S2材质",
+    "question": "为什么很多电动批头会使用S2材质？"
+  },
+  {
+    "id": 15,
+    "category": "S2材质",
+    "question": "S2材质做批头有什么特点？"
+  },
+  {
+    "id": 16,
+    "category": "S2材质",
+    "question": "S2钢主要适合承受什么样的使用情况？"
+  },
+  {
+    "id": 17,
+    "category": "S2材质",
+    "question": "S2钢能不能直接说成不锈钢？"
+  },
+  {
+    "id": 18,
+    "category": "S2材质",
+    "question": "购买批头时看到S2标识，应该理解成长度还是材质？"
+  },
+
+  {
+    "id": 19,
+    "category": "磁性",
+    "question": "磁性批头为什么安装螺丝时比较方便？"
+  },
+  {
+    "id": 20,
+    "category": "磁性",
+    "question": "强磁批头主要是用来做什么的？"
+  },
+  {
+    "id": 21,
+    "category": "磁性",
+    "question": "磁性批头能不能保证螺丝永远不会掉？"
+  },
+  {
+    "id": 22,
+    "category": "磁性",
+    "question": "不锈钢螺丝是不是都能被磁性批头吸住？"
+  },
+  {
+    "id": 23,
+    "category": "磁性",
+    "question": "家具安装过程中磁性批头有什么实际作用？"
+  },
+
+  {
+    "id": 24,
+    "category": "双头批头",
+    "question": "双头批头为什么叫双头？"
+  },
+  {
+    "id": 25,
+    "category": "双头批头",
+    "question": "双头批头使用时是不是两头一起工作？"
+  },
+  {
+    "id": 26,
+    "category": "双头批头",
+    "question": "双头批头可以一次拧两颗螺丝吗？"
+  },
+  {
+    "id": 27,
+    "category": "双头批头",
+    "question": "双头批头换另一端使用时需要注意什么？"
+  },
+
+  {
+    "id": 28,
+    "category": "两用头",
+    "question": "两用头是不是代表可以同时拧两颗螺丝？"
+  },
+  {
+    "id": 29,
+    "category": "两用头",
+    "question": "看到商品写两用头，能不能直接理解成同时使用两个螺丝？"
+  },
+  {
+    "id": 30,
+    "category": "两用头",
+    "question": "两用头具体是什么意思？"
+  },
+
+  {
+    "id": 31,
+    "category": "使用场景",
+    "question": "普通家具安装使用65mm批头有什么优势？"
+  },
+  {
+    "id": 32,
+    "category": "使用场景",
+    "question": "家具里面的螺丝位置比较深，65mm不够长怎么办？"
+  },
+  {
+    "id": 33,
+    "category": "使用场景",
+    "question": "日常家庭维修需要把65mm、100mm、150mm、200mm全部买齐吗？"
+  },
+  {
+    "id": 34,
+    "category": "使用场景",
+    "question": "狭窄位置安装螺丝时，批头长度应该怎么选择？"
+  },
+
+  {
+    "id": 35,
+    "category": "磨损与打滑",
+    "question": "PH2批头拧螺丝时一直打滑，应该先检查什么？"
+  },
+  {
+    "id": 36,
+    "category": "磨损与打滑",
+    "question": "批头刀尖出现明显缺口以后还能继续使用吗？"
+  },
+  {
+    "id": 37,
+    "category": "磨损与打滑",
+    "question": "电动工具扭矩设置过大可能对批头造成什么影响？"
+  },
+
+  {
+    "id": 38,
+    "category": "基础计算",
+    "question": "200mm批头比150mm批头长多少？"
+  },
+  {
+    "id": 39,
+    "category": "基础计算",
+    "question": "150mm批头比65mm批头长多少？"
+  },
+  {
+    "id": 40,
+    "category": "基础计算",
+    "question": "100mm批头比65mm批头长多少？"
+  }
+]
